@@ -17,4 +17,7 @@
 ![Project được tạo](http://www.mediafire.com/convkey/a295/96t7gofl138pamxzg.jpg)
 * F5 chạy thử xem kết quả
 ![F5 chạy thử xem kết quả](http://www.mediafire.com/convkey/8987/ni0nymc7kv772epzg.jpg)
-
+* Click vào link 'API' để xem các API mà Visual Studio đã tạo mặc định cho chúng ta. Và sau này khi chúng tạo thêm một API thì api sẽ được cập nhật vào danh sách này. Đây được xem như là document cho các Developer khác nhìn vào có thể hiểu được cụ thể cách sử dựng của từng API
+![API mặc định](http://www.mediafire.com/convkey/abe3/sf9c58du22sa2mqzg.jpg)
+* Bây giờ ta dùng POSTMAN để test thử một API(Nếu chưa có POSTMAN thì tải về và cài đặt tại [đây](https://www.getpostman.com/))
+![Test Postman](http://www.mediafire.com/convkey/fcc1/lov2bvr0m5lh181zg.jpg)
