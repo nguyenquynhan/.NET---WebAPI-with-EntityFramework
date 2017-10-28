@@ -14,4 +14,5 @@
 * Chọn đường dẫn lưu project và đặt tên project là WebAPISample. Sau đó click OK
 ![Đặt tên](http://www.mediafire.com/convkey/8485/ccuf8zb9m96jz3qzg.jpg)
 * Chọn Web API và click OK. Bên dưới là project đã được tạo xong:
+
 ![Project được tạo](http://www.mediafire.com/convkey/161b/96t7gofl138pamxzg.jpg)
